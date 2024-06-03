@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Ulangan Akhir Semester 2 PAI Kelas 11</title>
-</head>
-<body>
-    <h1>Ulangan Akhir Semester 2 PAI Kelas 11</h1>
-    <form action="submit.php" method="post">
         <?php
         $questions = [
             "1. Siapa nabi yang mendapatkan julukan Khalilullah?",
